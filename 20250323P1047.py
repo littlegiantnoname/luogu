@@ -5,7 +5,6 @@ length=int(length)
 numbers=int(numbers)
 trees=[]
 no_trees=[]
-cnt=0
 
 
 for i in range(length+1):
